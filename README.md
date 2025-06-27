@@ -33,6 +33,9 @@ This project implements a **digital lock circuit** using logic gates and flip-fl
 | LEDs | Visual indicators for success/failure |
 | LogicState & Switches | User input interface |
 
+![image](https://github.com/A-Alashker/Digital_Safe_Binary_Lock_System/blob/main/Logic%20Gates%20Hardware.jpg?raw=true)
+
+
 ## Usage
 
 1. Set the desired 4-bit passcode via logic switches.
